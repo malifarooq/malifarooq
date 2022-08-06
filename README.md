@@ -1,6 +1,7 @@
-- Hi, I’m @DarthHyperion: Electrical engineering student and regular dumbass.
-- I’m interested in literally anything that catches my interest.
-- I’m currently learning both Verilog and ML. (Great split, I know).
+- Hi, I’m @DarthHyperion: Electrical engineering student and enterprising freelancer.
+- Currently working on both front-end and back-end IC design.
+- Experienced in Arduino and Arduino based systems.
+- I dabble in writing in my free time.
 
 As the great Engineer once said: "I'm an Engineer. That means I solve problems."
 <!---
