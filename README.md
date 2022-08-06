@@ -3,6 +3,8 @@
 - Experienced in Arduino and Arduino based systems.
 - I dabble in writing in my free time.
 
+- My EDAPlayground: https://www.edaplayground.com/user/413529
+
 As the great Engineer once said: "I'm an Engineer. That means I solve problems."
 <!---
 DarthHyperion/DarthHyperion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
