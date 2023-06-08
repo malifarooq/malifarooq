@@ -1,5 +1,5 @@
-- Hi, I’m @DarthHyperion: Electrical engineering student and enterprising freelancer.
-- Currently working on both front-end and back-end IC design.
+- Hi, I’m Muhammad Ali Farooq (@DarthHyperion): Electrical engineering student and enterprising freelancer.
+- Currently working on both front-end IC design, and working on learning Deep Learning on the side. Will hopefully move towards working on a union of the two.
 - Experienced in Arduino and Arduino based systems.
 - I dabble in writing in my free time.
 
